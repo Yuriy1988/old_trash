@@ -1,0 +1,19 @@
+div {
+     display: inline-block;
+     width: 125px;
+     height: 125px;
+     text-align: center;
+     border: 2px solid black;
+ }
+
+.red {
+    background-color: #FF0000;
+}
+
+.green {
+    background-color: #00FF00;
+}
+
+.blue {
+    background-color: #0000FF;
+}
